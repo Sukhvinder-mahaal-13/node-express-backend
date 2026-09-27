@@ -5,11 +5,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "div": "npx nodemon server.js",
-    "start": "node server.js"
+    "div": "nodemon src/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript","backend"],
+  "author": "sukhi",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
